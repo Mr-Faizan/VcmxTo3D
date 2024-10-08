@@ -1,0 +1,41 @@
+<RCC>
+    <qresource prefix="/file">
+        <file>resources/geometry_0.obj</file>
+        <file>resources/geometry_0.obj.mtl</file>
+        <file>resources/geometry_0_1.obj</file>
+        <file>resources/geometry_0_1.obj.mtl</file>
+        <file>resources/geometry_1.obj</file>
+        <file>resources/geometry_1.obj.mtl</file>
+        <file>resources/geometry_2.obj</file>
+        <file>resources/geometry_2.obj.mtl</file>
+        <file>resources/geometry_2_1.obj</file>
+        <file>resources/geometry_2_1.obj.mtl</file>
+        <file>resources/geometry_4.obj</file>
+        <file>resources/geometry_4.obj.mtl</file>
+        <file>resources/geometry_5.obj</file>
+        <file>resources/geometry_5.obj.mtl</file>
+        <file>resources/geometry_6.obj</file>
+        <file>resources/geometry_6.obj.mtl</file>
+        <file>resources/geometry_7.obj</file>
+        <file>resources/geometry_7.obj.mtl</file>
+        <file>resources/geometry_7_1.obj</file>
+        <file>resources/geometry_7_1.obj.mtl</file>
+        <file>resources/geometry_8.obj</file>
+        <file>resources/geometry_8.obj.mtl</file>
+        <file>resources/geometry_9.obj</file>
+        <file>resources/geometry_9.obj.mtl</file>
+        <file>resources/geometry_10.obj</file>
+        <file>resources/geometry_10.obj.mtl</file>
+        <file>resources/geometry_11.obj</file>
+        <file>resources/geometry_11.obj.mtl</file>
+        <file>resources/geometry_12.obj</file>
+        <file>resources/geometry_12.obj.mtl</file>
+        <file>resources/geometry_12_1.obj</file>
+        <file>resources/geometry_12_1.obj.mtl</file>
+        <file>resources/geometry_13.obj</file>
+        <file>resources/geometry_13.obj.mtl</file>
+        <file>resources/geometry_14.obj</file>
+        <file>resources/geometry_14.obj.mtl</file>
+        <file>resources/dhParameters.json</file>
+    </qresource>
+</RCC>
